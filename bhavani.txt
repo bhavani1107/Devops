@@ -1,0 +1,4 @@
+<employee>
+<empNo>101</empNo>
+<empSalary>90000</empSalary>
+</employee>
